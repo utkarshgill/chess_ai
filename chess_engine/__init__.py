@@ -1,0 +1,1 @@
+"""Chess engine package for implementing and comparing different chess AIs.""" 

@@ -1,0 +1,1 @@
+"""Experiment package for running chess AI comparisons and collecting metrics.""" 
